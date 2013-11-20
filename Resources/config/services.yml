@@ -1,0 +1,7 @@
+parameters:
+#    social_layout.example.class: Ant\Bundle\SocialLayoutBundle\Example
+
+services:
+#    social_layout.example:
+#        class: %social_layout.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
